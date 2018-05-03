@@ -17,5 +17,5 @@ function johnLennonFacts(arrFacts){
   }
   
   return arr
-    
-  }
+  
+}
