@@ -23,7 +23,7 @@ function johnLennonFacts(arrFacts){
 
 function iLoveTheBeatles(nuber){
   var arr = []
-  i = 0
+  var i = 0
   do{
     arr.push("I love the Beatles!")
     i++
