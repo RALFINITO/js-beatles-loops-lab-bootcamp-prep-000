@@ -21,4 +21,13 @@ function johnLennonFacts(arrFacts){
 }
 
 
-function 
+function iLoveTheBeatles(nuber){
+  var arr = []
+  i = 0
+  do{
+    arr.push()
+    i++
+  }while(i<15)
+  
+  return arr
+}
